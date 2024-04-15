@@ -15,7 +15,7 @@ col1, col2 = st.columns([0.1,0.9])
 with col1:
     st.image(image,width=100)
 
-html_title = """
+html_title = """e
     <style>
     .title-test {
     font-weight:bold;
